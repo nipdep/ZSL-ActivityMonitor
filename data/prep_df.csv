@@ -1,0 +1,193 @@
+target,prediction,subject,timestamp,super_prediction,phase
+Climbing stairs,Climbing stairs,subject1,6656,Walking activities,unseen
+Cycling,Standing still,subject1,6756,Static activities,unseen
+Standing still,Standing still,subject1,6856,Static activities,unseen
+Standing still,Standing still,subject1,6956,Static activities,unseen
+Climbing stairs,Climbing stairs,subject1,7056,Walking activities,unseen
+Cycling,Standing still,subject1,7156,Static activities,unseen
+Standing still,Standing still,subject1,7256,Static activities,unseen
+Cycling,Standing still,subject1,7356,Static activities,unseen
+Standing still,Standing still,subject1,7456,Static activities,unseen
+Climbing stairs,Climbing stairs,subject1,7556,Walking activities,unseen
+Standing still,Standing still,subject1,7656,Static activities,unseen
+Cycling,Climbing stairs,subject1,7756,Walking activities,unseen
+Cycling,Climbing stairs,subject1,7856,Walking activities,unseen
+Cycling,Climbing stairs,subject1,7956,Walking activities,unseen
+Climbing stairs,Climbing stairs,subject1,8056,Walking activities,unseen
+Climbing stairs,Climbing stairs,subject1,8156,Walking activities,unseen
+Standing still,Climbing stairs,subject1,8256,Walking activities,unseen
+Cycling,Standing still,subject1,8356,Static activities,unseen
+Standing still,Standing still,subject1,8456,Static activities,unseen
+Cycling,Standing still,subject1,8556,Static activities,unseen
+Climbing stairs,Climbing stairs,subject1,8656,Walking activities,unseen
+Climbing stairs,Climbing stairs,subject1,8756,Walking activities,unseen
+Climbing stairs,Climbing stairs,subject1,8856,Walking activities,unseen
+Standing still,Standing still,subject1,8956,Static activities,unseen
+Climbing stairs,Climbing stairs,subject1,9056,Walking activities,unseen
+Sitting and relaxing,Sitting and relaxing,subject1,14500,Static activities,seen
+Waist bends forward,Waist bends forward,subject1,19644,Sports,seen
+Knees bending (crouching),Knees bending (crouching),subject1,19744,Sports,seen
+Running,Running,subject1,19844,Walking activities,seen
+Sitting and relaxing,Sitting and relaxing,subject1,21244,Static activities,seen
+Walking,Running,subject1,37576,Walking activities,seen
+Frontal elevation of arms,Frontal elevation of arms,subject1,38876,Sports,seen
+Cycling,Standing still,subject1,76083,Static activities,unseen
+Cycling,Climbing stairs,subject1,76183,Walking activities,unseen
+Standing still,Standing still,subject1,76283,Static activities,unseen
+Cycling,Standing still,subject1,76383,Static activities,unseen
+Climbing stairs,Climbing stairs,subject1,76483,Walking activities,unseen
+Cycling,Standing still,subject1,76583,Static activities,unseen
+Climbing stairs,Climbing stairs,subject1,76683,Walking activities,unseen
+Climbing stairs,Climbing stairs,subject1,76783,Walking activities,unseen
+Standing still,Standing still,subject1,76883,Static activities,unseen
+Cycling,Climbing stairs,subject1,76983,Walking activities,unseen
+Standing still,Standing still,subject1,77083,Static activities,unseen
+Climbing stairs,Climbing stairs,subject1,77183,Walking activities,unseen
+Climbing stairs,Climbing stairs,subject1,77283,Walking activities,unseen
+Cycling,Climbing stairs,subject1,77383,Walking activities,unseen
+Climbing stairs,Climbing stairs,subject1,77483,Walking activities,unseen
+Climbing stairs,Climbing stairs,subject1,77583,Walking activities,unseen
+Standing still,Standing still,subject1,77683,Static activities,unseen
+Cycling,Standing still,subject1,77783,Static activities,unseen
+Cycling,Standing still,subject1,77883,Static activities,unseen
+Standing still,Standing still,subject1,77983,Static activities,unseen
+Cycling,Climbing stairs,subject1,78083,Walking activities,unseen
+Cycling,Standing still,subject1,78183,Static activities,unseen
+Climbing stairs,Climbing stairs,subject1,78283,Walking activities,unseen
+Cycling,Climbing stairs,subject1,78383,Walking activities,unseen
+Climbing stairs,Climbing stairs,subject1,78483,Walking activities,unseen
+Running,Running,subject1,88864,Walking activities,seen
+Walking,Running,subject1,89064,Walking activities,seen
+Sitting and relaxing,Sitting and relaxing,subject1,89364,Static activities,seen
+Walking,Running,subject1,89864,Walking activities,seen
+Jogging,Running,subject1,89964,Walking activities,seen
+Sitting and relaxing,Sitting and relaxing,subject1,90464,Static activities,seen
+Lying down,Lying down,subject1,98916,Static activities,seen
+Jogging,Walking,subject1,100616,Walking activities,seen
+Climbing stairs,Climbing stairs,subject2,157184,Walking activities,unseen
+Cycling,Standing still,subject2,157284,Static activities,unseen
+Cycling,Climbing stairs,subject2,157384,Walking activities,unseen
+Standing still,Standing still,subject2,157484,Static activities,unseen
+Cycling,Standing still,subject2,157584,Static activities,unseen
+Cycling,Standing still,subject2,157684,Static activities,unseen
+Climbing stairs,Climbing stairs,subject2,157784,Walking activities,unseen
+Standing still,Standing still,subject2,157884,Static activities,unseen
+Cycling,Standing still,subject2,157984,Static activities,unseen
+Cycling,Climbing stairs,subject2,158084,Walking activities,unseen
+Climbing stairs,Climbing stairs,subject2,158184,Walking activities,unseen
+Standing still,Standing still,subject2,158284,Static activities,unseen
+Climbing stairs,Climbing stairs,subject2,158384,Walking activities,unseen
+Standing still,Standing still,subject2,158484,Static activities,unseen
+Walking,Running,subject2,218044,Walking activities,seen
+Running,Running,subject2,218244,Walking activities,seen
+Knees bending (crouching),Knees bending (crouching),subject2,219144,Sports,seen
+Frontal elevation of arms,Frontal elevation of arms,subject2,224544,Sports,seen
+Sitting and relaxing,Sitting and relaxing,subject2,225744,Static activities,seen
+Knees bending (crouching),Knees bending (crouching),subject2,241372,Sports,seen
+Walking,Running,subject2,242272,Walking activities,seen
+Jogging,Running,subject2,242572,Walking activities,seen
+Knees bending (crouching),Knees bending (crouching),subject2,245348,Sports,seen
+Jogging,Walking,subject2,245948,Walking activities,seen
+Waist bends forward,Waist bends forward,subject2,246048,Sports,seen
+Frontal elevation of arms,Frontal elevation of arms,subject2,246648,Sports,seen
+Frontal elevation of arms,Frontal elevation of arms,subject2,247148,Sports,seen
+Jump front & back,Running,subject2,264960,Walking activities,seen
+Knees bending (crouching),Knees bending (crouching),subject2,265660,Sports,seen
+Sitting and relaxing,Sitting and relaxing,subject2,266160,Static activities,seen
+Sitting and relaxing,Sitting and relaxing,subject2,267260,Static activities,seen
+Frontal elevation of arms,Frontal elevation of arms,subject3,302081,Sports,seen
+Jogging,Walking,subject3,303981,Walking activities,seen
+Running,Walking,subject3,308225,Walking activities,seen
+Jogging,Walking,subject3,309425,Walking activities,seen
+Running,Walking,subject3,310625,Walking activities,seen
+Running,Running,subject3,329671,Walking activities,seen
+Knees bending (crouching),Knees bending (crouching),subject3,338625,Sports,seen
+Waist bends forward,Waist bends forward,subject3,339625,Sports,seen
+Sitting and relaxing,Sitting and relaxing,subject3,340425,Static activities,seen
+Knees bending (crouching),Knees bending (crouching),subject3,364545,Sports,seen
+Walking,Running,subject3,366045,Walking activities,seen
+Jogging,Walking,subject3,377957,Walking activities,seen
+Running,Running,subject4,459921,Walking activities,seen
+Running,Running,subject4,461821,Walking activities,seen
+Jogging,Walking,subject4,471397,Walking activities,seen
+Running,Walking,subject4,471797,Walking activities,seen
+Knees bending (crouching),Knees bending (crouching),subject4,471897,Sports,seen
+Waist bends forward,Waist bends forward,subject4,472297,Sports,seen
+Waist bends forward,Waist bends forward,subject4,483307,Sports,seen
+Waist bends forward,Waist bends forward,subject4,487883,Sports,seen
+Sitting and relaxing,Sitting and relaxing,subject4,498123,Static activities,seen
+Running,Walking,subject4,499423,Walking activities,seen
+Walking,Running,subject4,524185,Walking activities,seen
+Jogging,Walking,subject5,538969,Walking activities,seen
+Jogging,Running,subject5,540169,Walking activities,seen
+Lying down,Lying down,subject5,543177,Static activities,seen
+Walking,Running,subject5,547585,Walking activities,seen
+Running,Running,subject5,556165,Walking activities,seen
+Frontal elevation of arms,Frontal elevation of arms,subject5,561573,Sports,seen
+Lying down,Lying down,subject5,564681,Static activities,seen
+Running,Running,subject5,565481,Walking activities,seen
+Jogging,Walking,subject5,589257,Walking activities,seen
+Running,Running,subject5,591157,Walking activities,seen
+Waist bends forward,Waist bends forward,subject5,603081,Sports,seen
+Running,Running,subject6,658877,Walking activities,seen
+Jogging,Walking,subject6,665085,Walking activities,seen
+Knees bending (crouching),Knees bending (crouching),subject6,667393,Sports,seen
+Waist bends forward,Waist bends forward,subject6,668393,Sports,seen
+Lying down,Lying down,subject6,675275,Static activities,seen
+Walking,Running,subject6,675575,Walking activities,seen
+Sitting and relaxing,Sitting and relaxing,subject6,679981,Static activities,seen
+Sitting and relaxing,Sitting and relaxing,subject6,680181,Static activities,seen
+Walking,Running,subject6,684589,Walking activities,seen
+Frontal elevation of arms,Frontal elevation of arms,subject6,701885,Sports,seen
+Waist bends forward,Waist bends forward,subject6,703485,Sports,seen
+Running,Running,subject7,790237,Walking activities,seen
+Frontal elevation of arms,Frontal elevation of arms,subject7,790537,Sports,seen
+Sitting and relaxing,Frontal elevation of arms,subject7,795345,Sports,seen
+Waist bends forward,Waist bends forward,subject7,801789,Sports,seen
+Running,Running,subject7,807425,Walking activities,seen
+Jogging,Running,subject7,813928,Walking activities,seen
+Knees bending (crouching),Knees bending (crouching),subject7,817085,Sports,seen
+Running,Running,subject7,817785,Walking activities,seen
+Frontal elevation of arms,Frontal elevation of arms,subject7,831109,Sports,seen
+Running,Walking,subject7,832109,Walking activities,seen
+Knees bending (crouching),Knees bending (crouching),subject8,873281,Sports,seen
+Waist bends forward,Waist bends forward,subject8,873681,Sports,seen
+Jogging,Walking,subject8,876889,Walking activities,seen
+Sitting and relaxing,Sitting and relaxing,subject8,877389,Static activities,seen
+Frontal elevation of arms,Frontal elevation of arms,subject8,891949,Sports,seen
+Walking,Running,subject8,893349,Walking activities,seen
+Jogging,Walking,subject8,894049,Walking activities,seen
+Frontal elevation of arms,Frontal elevation of arms,subject8,911817,Sports,seen
+Walking,Running,subject8,917430,Walking activities,seen
+Frontal elevation of arms,Frontal elevation of arms,subject8,917830,Sports,seen
+Lying down,Lying down,subject8,922369,Static activities,seen
+Jump front & back,Running,subject8,923369,Walking activities,seen
+Running,Walking,subject8,924069,Walking activities,seen
+Lying down,Lying down,subject8,957561,Static activities,seen
+Walking,Running,subject8,977614,Walking activities,seen
+Frontal elevation of arms,Frontal elevation of arms,subject9,999769,Sports,seen
+Lying down,Lying down,subject9,1000569,Static activities,seen
+Running,Running,subject9,1001069,Walking activities,seen
+Running,Running,subject9,1001469,Walking activities,seen
+Walking,Running,subject9,1004277,Walking activities,seen
+Running,Running,subject9,1004477,Walking activities,seen
+Jogging,Walking,subject9,1006177,Walking activities,seen
+Lying down,Lying down,subject9,1011321,Static activities,seen
+Frontal elevation of arms,Frontal elevation of arms,subject9,1011921,Sports,seen
+Knees bending (crouching),Knees bending (crouching),subject9,1022609,Sports,seen
+Knees bending (crouching),Knees bending (crouching),subject9,1033261,Sports,seen
+Frontal elevation of arms,Frontal elevation of arms,subject9,1033661,Sports,seen
+Frontal elevation of arms,Frontal elevation of arms,subject9,1033761,Sports,seen
+Knees bending (crouching),Knees bending (crouching),subject9,1052293,Sports,seen
+Running,Running,subject9,1052693,Walking activities,seen
+Lying down,Lying down,subject9,1068553,Static activities,seen
+Walking,Running,subject9,1080209,Walking activities,seen
+Sitting and relaxing,Sitting and relaxing,subject10,1153169,Static activities,seen
+Lying down,Lying down,subject10,1157377,Static activities,seen
+Frontal elevation of arms,Frontal elevation of arms,subject10,1167393,Sports,seen
+Frontal elevation of arms,Frontal elevation of arms,subject10,1168193,Sports,seen
+Knees bending (crouching),Knees bending (crouching),subject10,1172650,Sports,seen
+Waist bends forward,Waist bends forward,subject10,1173150,Sports,seen
+Lying down,Lying down,subject10,1176661,Static activities,seen
+Waist bends forward,Waist bends forward,subject10,1177161,Sports,seen
+Jump front & back,Running,subject10,1194905,Walking activities,seen
