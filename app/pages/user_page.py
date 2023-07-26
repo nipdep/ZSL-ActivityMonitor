@@ -1,12 +1,9 @@
 from h2o_wave import ui, site, data
-from app.utils import get_tup_list, read_csv_to_df
 from .layout import render_template
 from .utilities import *
 import random
 # import plotly.io as pio
 # pio.templates.default = "plotly_dark"
-
-df = read_csv_to_df()
 
 async def launch_page(q, details=None):
     

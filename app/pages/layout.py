@@ -27,8 +27,6 @@ async def initialize_app(q):
     if q.app.illustration is None:
         q.app.illustration, = await q.site.upload(['static/ill2.png'])
 
-    if q.app.loader is None:
-        q.app.loader, = await q.site.upload(['static/PG25.gif'])
         # q.app.loader, = await q.site.upload(['static/skeletons/Cycling_original_skel.gif'])
 
     if q.app.prf_pic1 is None:

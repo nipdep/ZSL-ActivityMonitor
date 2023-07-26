@@ -4,8 +4,6 @@ import pandas as pd
 
 # read the data 
 ## Data file paths 
-final_path = './archive order/final.csv'
-order_path = './archive order/order.csv'
 
 def load_df():
     return pd.read_csv('./data/prep_df.csv')
